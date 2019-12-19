@@ -4,7 +4,6 @@ album.songs.forEach( (song, index) => {
          <td>${index + 1}</td>
         <td>
           <button>
-            <span class="song-number">${index + 1}</span>
             <span class="ion-play"></span>
             <span class="ion-pause"></span>
           </button>
